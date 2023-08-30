@@ -14,3 +14,13 @@
     background-position: center;
     background-size: cover;
 }
+.main p{
+    word-spacing: 150px;
+    font-size: 30px;
+    color:rgb(122, 197, 218);
+}
+.dm p{
+    color:rgb(47, 139, 146);
+    font-size: 40px;
+    text-align: center;
+}
